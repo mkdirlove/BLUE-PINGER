@@ -8,9 +8,11 @@ Bluetooth Deauthentication Attack para sa maingay na kapitbahay hahahahaha
 `$ cd BLUE-PINGER`
 
 `$ chmod +x *`
-
+#
+# USAGE
 `$ sudo blue-pinger.sh`
 #
 # PREVIEW
-![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/WI-TOOLKIT/blob/master/1.png)
-![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/WI-TOOLKIT/blob/master/2.gif)
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/BLUE-PINGER/blob/master/1.png)
+#
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/BLUE-PINGER/blob/master/2.gif)
