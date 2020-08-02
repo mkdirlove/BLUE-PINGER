@@ -25,7 +25,7 @@ function check_sudo() {
   if [[ "$EUID" -ne 0 ]]; then
     clear
     echo "    Blue Pinger" | figlet -f slant
-    printf "%b\n" "ERROR!!! This script must be run as root. Use sudo." >&2
+    echo " This script must be run as root!"
     exit 1
   fi
 }
